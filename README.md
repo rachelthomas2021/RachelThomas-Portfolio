@@ -9,7 +9,7 @@ It’s a place to explore my work, see what I’m building, and track the projec
 ## 🌐 Live Site
 
 Check out my portfolio live here:  
-[https://rachelthomas2021.github.io/RachelThomas-Portfolio/]
+[Portfolio](https://rachelthomas2021.github.io/RachelThomas-Portfolio/)
 
 🛠 Technologies Used
 
