@@ -376,9 +376,9 @@ main {
 .card.project {
   text-align: center;
   padding: 1rem;
-  border: 1px solid #ccc;  /* same subtle border as other cards */
+  border: 1px solid #ccc;
   border-radius: 12px;
-  background-color: inherit; /* matches homepage background */
+  background-color: inherit;
   min-height: 100px;
 }
 
