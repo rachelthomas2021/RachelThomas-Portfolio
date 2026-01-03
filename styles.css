@@ -373,6 +373,21 @@ main {
 
 /* Projects cards */
 
+.card.project {
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #ccc;  /* same subtle border as other cards */
+  border-radius: 12px;
+  background-color: inherit; /* matches homepage background */
+  min-height: 100px;
+}
+
+#projects .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
 
 
 
