@@ -24,7 +24,7 @@ Check out my portfolio live here:
 📂 Projects Overview
 
 - **EMS Vitals Tracker** – React Native mobile app to log patient vitals, visualize trends, and highlight abnormal readings. *(In Progress)*  
-- **Recipe Finder** – React web app that lets users search recipes by ingredients and displays results in cards. *(In Progress)*  
+- **Recipe Finder** – Website that lets users search recipes by ingredients they currently have in there fridge or pantry and displays results in cards. *(In Progress)*  
 - **Memory Game** – Interactive React web game that challenges memory skills with flipping cards and animations. *(In Progress)*    
 
 ## 📝 Notes / Future Work
